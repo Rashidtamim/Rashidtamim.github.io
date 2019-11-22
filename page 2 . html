@@ -1,13 +1,14 @@
 <html>
 
     <head>
-       <title>Page 2</title>
+       <title>Tamim's Biography</title>
     </head>
     
-    
-     <body>
-         <h1>My name is khan</h1>
-         <p>How are u</p>
+    <body>
+         <h1><b>My Hobby</b></h1>
+         <h2>In my past time I like to play cricket</h2><br>
+         <h2>I am passionate about cricket</h2>
+         <img src="cricket.jpg">
      </body>
      
      
